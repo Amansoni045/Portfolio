@@ -1,6 +1,6 @@
 export default function Profile() {
   return (
-    <section className="py-32 text-center">
+    <section id="profile" className="py-32 text-center">
       <h2 className="text-4xl font-bold mb-10">Find Me Online</h2>
 
       <div className="flex flex-wrap justify-center gap-8 text-gray-400">
